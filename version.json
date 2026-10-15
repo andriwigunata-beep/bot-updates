@@ -1,11 +1,12 @@
 {
-  "latest_version": "2.1.0",
-  "total_users_active": 1450,
+  "latest_version": "2.6.0",
+  "total_users_active": 10,
   "download_url": "https://wa.me/6288218184000",
   "changelog": [
-    "Penambahan auto-upload YouTube Shorts.",
-    "Fitur judul panjang & hashtag cerdas anti-nama acak.",
-    "Pembersihan otomatis caption TikTok anti-shadowban.",
-    "Multi-tasking Chrome tanpa menutup browser pribadi."
+    "Sistem 3 folder: bahan, antrean, dan selesai.",
+    "Gabung video otomatis urut waktu masuk folder & hapus bahan lama.",
+    "Kolom custom nama file & pilihan resolusi 720p, 1080p, 2K.",
+    "Import CSV Shopee Affiliate otomatis ambil link pendek (s.shopee.co.id).",
+    "Fix upload FB Reels bilingual (Next/Post), auto Add Product & komentar."
   ]
 }
