@@ -1,5 +1,5 @@
 {
-  "version": "5.1.9",
-  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.1.9/Wallmedia.5.1.9.exe",
-  "changelog": "- Fix Download Flow AI \n- Multi akun"
+  "version": "5.2.0",
+  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.2.0/Wallmedia.5.2.0.exe",
+  "changelog": "- Flow AI kirim banyak prompt sekali jalan \n- Fix lisensi \n- Max Retry 3x \n- Fix credit flow jika kosong ganti akun"
 }
