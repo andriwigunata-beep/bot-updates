@@ -1,5 +1,5 @@
 {
-  "version": "5.2.0",
-  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.2.0/Wallmedia.5.2.0.exe",
-  "changelog": "- Flow AI kirim banyak prompt sekali jalan \n- Fix lisensi \n- Max Retry 3x \n- Fix credit flow jika kosong ganti akun"
+  "version": "5.2.1",
+  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.2.1/Wallmedia.5.2.1.exe",
+  "changelog": "- Flow AI Extend Mode \n- Auto bikin story/cerita \n- Anti dobel scene \n- daily quota untuk member free"
 }
