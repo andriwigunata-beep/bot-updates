@@ -1,5 +1,5 @@
 {
-  "version": "5.2.8",
-  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.2.8/Wallmedia.5.2.8.exe",
-  "changelog": "- Tampilan visual Media \n- Report dan penambahan data"
+  "version": "5.2.9",
+  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v5.2.9/Wallmedia.5.2.9.exe",
+  "changelog": "- Auto Pilot \n- Fix bug auto link affiliasi shopee"
 }
