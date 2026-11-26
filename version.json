@@ -1,5 +1,5 @@
 {
-  "version": "6.3.4",
-  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v6.3.4/WallMediaStudio.exe",
-  "changelog": "- Fix Schedule test tiktok \n- custom link \n- fix bug"
+  "version": "6.3.8",
+  "download_url": "https://github.com/andriwigunata-beep/bot-updates/releases/download/v6.3.8/WallMediaStudio.exe",
+  "changelog": "- Fix Stop Button \n- Fix Landscape or potrait"
 }
